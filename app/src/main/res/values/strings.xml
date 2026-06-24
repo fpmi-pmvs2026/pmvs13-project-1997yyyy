@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="hint_city">Введите город (например, Minsk)</string>
+    <string name="btn_search">Найти погоду</string>
+    <!-- 按钮上显示“另一种语言”，所以俄语环境下显示“中文” -->
+    <string name="btn_switch_lang">中文</string>
+    <string name="default_weather">Данные о погоде появятся здесь</string>
+    <string name="error_city">Введите город!</string>
+    <string name="error_network">Ошибка: Город не найден или нет сети.</string>
+    <string name="nav_weather">Погода</string>
+    <string name="nav_cities">Города</string>
+    <string name="title_cities">Избранные города</string>
+    <!-- 格式化字符串：%1$s 是城市，%2$.1f 是温度，%3$s 是描述 -->
+
+    <string name="result_format">Город: %1$s\nТемпература: %2$.1f°C\n%3$s</string>
+    <string name="btn_add_favorite">Добавить в избранное</string>
+    <string name="msg_added_favorite">Город добавлен в избранное!</string>
+    <string name="msg_already_exists">Этот город уже в избранном!</string>
+</resources>

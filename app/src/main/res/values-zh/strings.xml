@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">天气应用</string>
+    <string name="hint_city">请输入城市 (例如: 北京)</string>
+    <string name="btn_search">查询天气</string>
+    <!-- 中文环境下，按钮显示“Русский” -->
+    <string name="btn_switch_lang">Русский</string>
+    <string name="default_weather">天气数据将显示在这里</string>
+    <string name="error_city">请输入城市！</string>
+    <string name="error_network">错误：未找到城市或无网络。</string>
+    <string name="nav_weather">天气</string>
+    <string name="nav_cities">城市</string>
+    <string name="title_cities">收藏的城市</string>
+    <string name="result_format">城市: %1$s\n温度: %2$.1f°C\n%3$s</string>
+    <string name="btn_add_favorite">添加到收藏</string>
+    <string name="msg_added_favorite">城市已添加到收藏！</string>
+    <string name="msg_already_exists">该城市已在收藏列表中！</string>
+</resources>
